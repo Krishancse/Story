@@ -1,1 +1,1 @@
-This folder stores report figures (plots, images, etc.)
+This is a placeholder for figure files
